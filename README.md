@@ -1,4 +1,4 @@
-# programacaodinamica
+# programacao_dinamica
 Source code repository developed inspired from Programação Dinâmica channel playlist
 
 Playlists can be accessed here:
